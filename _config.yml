@@ -17,7 +17,7 @@ destination: _site
 
 # site title, description, meta_description, meta_keywords
 # Details for the RSS feed generator
-name: BB8
+name: Sulger_Blog
 title: My Blog
 description: "Desenvolvedor Front-end/Wordpress, Design Responsivo, HTML5, CSS3 e JavaScript"
 meta_description: "Desenvolvedor Front-end/Wordpress, Design Responsivo, HTML5, CSS3 e JavaScript"
@@ -28,16 +28,16 @@ repo: https://github.com/nandomoreirame/nandomoreira-jekyll-theme
 disqus_shortname: "fernandomoreira"
 rss_path: source/
 author:
-  name      : BB8
-  image     : /assets/images/author.jpg
-  email     : bb8@swars.com
+  name      : Alden Sulger 
+  image     : /assets/images/author.png
+  email     : asulger@lsoc.org
   url       : http://bb8.me
   facebook  : http://facebook.com/bb8
   twitter   : http://twitter.com/bb8
   instagram : http://instagram.com/bb8
-  github    : http://github.com/bb8
+  github    : https://github.com/SaucyA
   linkedin  : http://linkedin.com/in/bb8
-  bio       : I'm a big deal. 
+  bio       : I like to make money get turnt
 
 # thought
 # thought:
